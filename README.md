@@ -8,7 +8,7 @@ I want to share with you guys. if you don't know it.
 ------------------------------
  - Finite state Transducers
 
-![Image 4](https://github.com/LeeGitaek/FST_structure/blob/master/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202020-01-30%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%2010.10.31.png?raw=true =100x100)
+![Image 4](https://github.com/LeeGitaek/FST_structure/blob/master/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202020-01-30%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%2010.10.31.png?raw=true)
 
 
 K = Finite set of states
@@ -19,7 +19,7 @@ F c k = Accept States
 Δ = Relation From
     K x (Σ U ∈) to K x (Γ U ∈) 
 
-![Image 5](https://github.com/LeeGitaek/FST_structure/blob/master/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202020-01-30%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%2010.15.06.png?raw=true =100x100)
+![Image 5](https://github.com/LeeGitaek/FST_structure/blob/master/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202020-01-30%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%2010.15.06.png?raw=true)
 
 
 K = { 0 , 1 } 
