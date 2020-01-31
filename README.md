@@ -44,4 +44,59 @@ I will add more information after study FST.
 <br>
 
 ref) https://web.stanford.edu/~laurik/publications/pmatch.pdf<br>
-This is from Stanford. if you need more information. 
+This is from Stanford. if you need more information.
+
+<br>
+ * Example of FSTs *  <br>
+
+The action of a Finite State Transducer can be viewed as computing a relation between two sets.<br>
+It defines a relation between two sets of strings.<br>
+
+ ** This is from Stackoverflow ** <br>
+
+<br>
+For input 11 you start (as always) in state 0. <br>
+The transition labeled 1/0 takes you to state 1, reads the first 1 from the input and outputs 0.<br>
+
+[Pic]
+
+
+#1. Now there is one 1 of your input left , so you take 1/1 to state 0. <br>
+#2. The first step outputs 0, the second one 1 , so the total output is 01.<br>
+#3. x:y means that the transition reads x and outputs y.<br>
+
+ref ) https://cs.nyu.edu/~mohri/postscript/csl01.pdf
+
+[ FST ] KOREAN
+유한상태 변환기 <br>
+튜링기계의 용어에 따라 입력 테이프와 출력 테이프라는 두개의 메모리 테이프가 있는 유한 상태 기계이다. <br>
+두 set의 symbol 사이를 매핑하는 유한상태 오토마톤유형이다. <br>
+
+- 한국어 형태소 분석기 (FST기반) , 2016년 최초 <br>
+- 검색 시스템에 사용될 수 있으며 , AI NLP 에도 이용될 수 있다. <br>
+
+** FINITE STATE COMPUTING ** < br>
+
+LATER <br>
+
+WEIGHTED FINITE STATE TRANSDUCER <br>
+ 
+[이미지 ] <br>
+
+FST 는 분석의 INPUT / OUTPUT symbol pair를 바꾸기만 하면 '생성 모델' 이 된다. <br>
+장점 :
+    1) High level information 넣는 것이 수월하다.
+    2) 수학적으로 sound 하다.
+    3) 실행속도가 빠르다.
+    
+단점 :
+    1) 절대 시간 이상의 공부가 필요하다.
+    
+    
+UCDavis Document <br>
+
+ref ) https://web.cs.ucdavis.edu/~rogaway/classes/120/spring13/eric-transducers.pdf <br>
+
+
+
+
