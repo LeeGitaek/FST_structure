@@ -1,9 +1,5 @@
 # FST_structure
-I found interesting algorithm what I heard from UCDAVIS friend. while staying in USA.
-so, I'm studying FST_data structure.
-FST, it can be used in AI technology area.
-such as a NLP ( Natural Language Processing )
-I want to share with you guys. if you don't know it.
+I found an interesting algorithm that I heard from UCDAVIS friend. while staying in the USA. so, I'm studying FST_data structure. FST, it can be used in AI technology area. such as an NLP ( Natural Language Processing ) I want to share with you guys. if you don't know it.
 
 ------------------------------
  - Finite state Transducers
